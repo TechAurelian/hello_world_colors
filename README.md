@@ -1,7 +1,7 @@
 # Hello World Colors
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-%2302569B)](https://flutter.dev/)
-[![Platform](https://img.shields.io/badge/platform-android%2C%20web-lightgrey)](https://frctester.techaurelian.com)
+![Platform](https://img.shields.io/badge/platform-android%2C%20web-lightgrey)
 [![Build Flutter Web](https://github.com/TechAurelian/hello_world_colors/actions/workflows/build-flutter-web.yml/badge.svg)](https://github.com/TechAurelian/hello_world_colors/actions/workflows/build-flutter-web.yml)
 [![Github Code Size](https://img.shields.io/github/languages/code-size/TechAurelian/hello_world_colors)](https://github.com/TechAurelian/hello_world_colors)
 [![GitHub Commits](https://badgen.net/github/commits/TechAurelian/hello_world_colors/main)](https://github.com/TechAurelian/hello_world_colors/commits/main)
@@ -38,7 +38,7 @@ Flutter is a UI toolkit for crafting beautiful, natively compiled applications f
 
 - [Flutter](https://flutter.dev/) - Build apps for any screen.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
-- [share_plus](https://pub.dev/packages/url_launcher) - A Flutter plugin to share content from your Flutter app.
+- [share_plus](https://pub.dev/packages/share_plus) - A Flutter plugin to share content from your Flutter app.
 - [url_launcher](https://pub.dev/packages/url_launcher) - A Flutter plugin for launching a URL.
 - [GitHub Pages](https://pages.github.com/) - Websites for you and your projects, hosted directly from your GitHub repository.
 
