@@ -15,6 +15,16 @@ There is also a clean color preview screen where you can view colors in all thei
 
 Use Hello World Colors to discover beautiful colors, relax your eyes, and soothe your mind.
 
+## Screenshots
+
+<p>
+  <img width="19%" src="repo-assets/screenshots/helloworldcolors-screenshot-phone-home-tap-to-shuffle.png" alt="Hello World Colors Screenshot: Tap to shuffle">
+  <img width="19%" src="repo-assets/screenshots/helloworldcolors-screenshot-phone-home-beautiful-colors.png" alt="Hello World Colors Screenshot: Beautiful colors">
+  <img width="19%" src="repo-assets/screenshots/helloworldcolors-screenshot-phone-home-beautiful-names.png" alt="Hello World Colors Screenshot: ">
+  <img width="19%" src="repo-assets/screenshots/helloworldcolors-screenshot-phone-color-preview.png" alt="Hello World Colors Screenshot: Beautiful names">
+  <img width="19%" src="repo-assets/screenshots/helloworldcolors-screenshot-phone-color-info.png" alt="Hello World Colors Screenshot: Full screen preview">
+</p>
+
 ## Hello World
 
 I'm learning Flutter, and this is one of my first Hello World Flutter apps.
@@ -22,6 +32,8 @@ I'm learning Flutter, and this is one of my first Hello World Flutter apps.
 Hello World apps are pretty famous, even if all they usually do is write "Hello, World!" on the screen. When learning a new programming language or platform, starting with such a simple program has become a tradition.
 
 [Flutter](https://flutter.dev/) is a UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
+**Building a user interface with Flutter is so easy and productive that even a Hello World app can have multiple screens, menu items, buttons, and actions instead of just writing "Hello, World!" on the screen!**
 
 ## Getting Started
 
