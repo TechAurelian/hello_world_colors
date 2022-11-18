@@ -7,7 +7,21 @@
 [![GitHub Commits](https://badgen.net/github/commits/TechAurelian/hello_world_colors/main)](https://github.com/TechAurelian/hello_world_colors/commits/main)
 [![GitHub License](https://img.shields.io/github/license/TechAurelian/hello_world_colors)](https://github.com/TechAurelian/hello_world_colors/blob/main/LICENSE)
 
-Discover a new beautiful color with a beautiful name with every shuffle! A simple, colorful Hello World app that allows you to relax your eyes and soothe your mind.
+Slate Blue. Crimson. Peach Puff. A beautiful color with a beautiful name with every shuffle! A free and open-source Hello World app made with Flutter.
+
+Hello World Colors lets you play with beautiful colors. Simply tap the Shuffle button and watch surprising random colors fill your phone or tablet.
+
+There is also a clean color preview screen where you can view colors in all their splendor and a detailed color information screen where you can view detailed color codes and information, ready to copy and reuse.
+
+Use Hello World Colors to discover beautiful colors, relax your eyes, and soothe your mind.
+
+## Hello World
+
+I'm learning Flutter, and this is one of my first Hello World Flutter apps.
+
+Hello World apps are pretty famous, even if all they usually do is write "Hello, World!" on the screen. When learning a new programming language or platform, starting with such a simple program has become a tradition.
+
+[Flutter](https://flutter.dev/) is a UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 ## Getting Started
 
@@ -25,14 +39,6 @@ git clone https://github.com/TechAurelian/hello_world_colors.git
 flutter pub get
 flutter run
 ```
-
-## Hello World
-
-I'm learning [Flutter](https://flutter.dev/), and this is one of my first Hello World Flutter apps.
-
-Hello World apps are pretty famous, even if all they usually do is write "Hello, World!" on the screen. When learning a new programming language or platform, starting with such a simple program has become a tradition.
-
-Flutter is a UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 ## Built With
 
