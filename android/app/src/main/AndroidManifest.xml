@@ -10,7 +10,7 @@
     </queries>
 
    <application
-        android:label="hello_world_colors"
+        android:label="Hello World Colors"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

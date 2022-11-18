@@ -1,6 +1,6 @@
 {
-    "name": "hello_world_colors",
-    "short_name": "hello_world_colors",
+    "name": "Hello World Colors",
+    "short_name": "Hello World Colors",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
