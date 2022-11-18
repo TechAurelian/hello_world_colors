@@ -29,18 +29,20 @@ Use Hello World Colors to discover beautiful colors, relax your eyes, and soothe
 
 <table>
   <tr>
-    <td>On Android</td>
+    <td rowspan="2"><b>On Android</b></td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.thehellomaker.heyworldcolors" target="_blank">
         <img src="repo-assets/badges/google-play-store-badge-en.svg" alt="Get it on Google Play">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/TechAurelian/hello_world_colors/releases" target="_blank">Download APK from GitHub Releases</a>
-    </td>
   </tr>
   <tr>
-    <td>On any platform</td>
+    <td>
+      <a href="https://github.com/TechAurelian/hello_world_colors/releases" target="_blank">Download APK from GitHub Releases</a>
+    </td>    
+  </tr>
+  <tr>
+    <td><b>On any platform</b><br>(Android, ChromeOS, iOS,<br>Linux, macOS, Windows, etc.)</td>
     <td colspan="2">
       <a href="https://helloworldcolors.techaurelian.com" target="_blank">Run the web app in your browser</a>
     </td>
