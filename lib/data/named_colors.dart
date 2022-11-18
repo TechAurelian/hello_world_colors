@@ -33,6 +33,8 @@ NamedColor nextRandomColor({Random? random}) {
     return _webColors[0];
   }
 
+  // Internal "cheat" for taking screenshots.
+  // const int randomIndex = 126; // 131; // 113;
   final int randomIndex = random.nextInt(_webColors.length);
   return _webColors[randomIndex];
 }
