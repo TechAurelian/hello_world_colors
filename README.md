@@ -25,6 +25,28 @@ Use Hello World Colors to discover beautiful colors, relax your eyes, and soothe
   <img width="19%" src="repo-assets/screenshots/helloworldcolors-screenshot-phone-color-info.png" alt="Hello World Colors Screenshot: Full screen preview">
 </p>
 
+## How to Run the App
+
+<table>
+  <tr>
+    <td>On Android</td>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.thehellomaker.heyworldcolors" target="_blank">
+        <img src="repo-assets/badges/google-play-store-badge-en.svg" alt="Get it on Google Play">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/TechAurelian/hello_world_colors/releases" target="_blank">Download APK from GitHub Releases</a>
+    </td>
+  </tr>
+  <tr>
+    <td>On any platform</td>
+    <td colspan="2">
+      <a href="https://helloworldcolors.techaurelian.com" target="_blank">Run the web app in your browser</a>
+    </td>
+  </tr>
+</table>
+
 ## Hello World
 
 I'm learning Flutter, and this is one of my first Hello World Flutter apps.
